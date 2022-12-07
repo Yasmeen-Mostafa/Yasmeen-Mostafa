@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmeen-mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="yasmeen-mostafa" /> </p>
 
-- 🔭 I’m currently working on **Dentist dashboard**
-
-- 🌱 I’m currently learning **ReactJs, react native, responsive web design**
-
-- 🤝 I’m looking for help with **ReactJs, React native**
+- 🌱 I’m currently learning **ReactJs, responsive web design**
 
 - 📫 How to reach me **yasmeen.mostafa1236@gmail.com**
 
